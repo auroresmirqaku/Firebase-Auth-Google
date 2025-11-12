@@ -26,7 +26,7 @@ Screenshot
 
 
 Setup Instructions
-1. Clone the Repository
+1. Clone the Repository https://github.com/auroresmirqaku/Firebase-Auth-Google.git
 
 cd my-app
 
